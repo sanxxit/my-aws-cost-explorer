@@ -1,5 +1,5 @@
-# AWS Cost Explorer and Amazon Bedrock Model Invocation Logs MCP Server & Client
 
+Claude & MCP-Powered AWS Cost Analyzer
 An MCP server for getting AWS spend data via Cost Explorer and Amazon Bedrock usage data via [`Model invocation logs`](https://docs.aws.amazon.com/bedrock/latest/userguide/model-invocation-logging.html) in Amazon Cloud Watch through [Anthropic's MCP (Model Control Protocol)](https://www.anthropic.com/news/model-context-protocol). See section on ["secure" remote MCP server](#secure-remote-mcp-server) to see how you can run your MCP server over HTTPS.
 
 ```mermaid
